@@ -3,7 +3,7 @@
 Plugin Name: KitFunnel VN
 Plugin URI: https://kitfunnel.com
 Description: Personalización VN
-Version: 1.1.18
+Version: 1.1.19
 Author: KitFunnel
 License: GPL 2+
 License URI: https://kitfunnel.com */ 
